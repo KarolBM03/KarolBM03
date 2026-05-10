@@ -38,15 +38,6 @@ https://github.com/KarolBM03/webvibe
 
 ---
 
-## Estadísticas de GitHub
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarolBM03&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolBM03&layout=compact" />
-</p>
-
----
-
 ## Conecta Conmigo
 
 - GitHub: https://github.com/KarolBM03
