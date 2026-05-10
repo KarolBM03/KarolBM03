@@ -23,7 +23,7 @@ Además, soy amante de las Ford Raptor y del diseño con estilo moderno y potent
 ## Tecnologías
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,php,sql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,php,mysql,git,github,vscode" />
 </p>
 
 ---
