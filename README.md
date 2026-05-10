@@ -16,8 +16,8 @@ Actualmente enfocada en:
 - Aplicaciones Flutter
 - Diseño UI/UX
 - Interfaces Responsivas
-- 
-Ademas, soy amante de las Ford Raptor y del diseño con estilo moderno y potente 
+  
+**Ademas, soy amante de las Ford Raptor y del diseño con estilo moderno y potente **
 ---
 
 ## Tecnologías
