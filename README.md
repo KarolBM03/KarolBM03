@@ -1,25 +1,26 @@
-<h1 align="center">Hi, I'm Karol 👋</h1>
+<h1 align="center">Hola, soy Karol 👋</h1>
 
 <p align="center">
-Frontend Developer • Web Designer • Flutter Developer
+Desarrolladora Frontend • Diseñadora Web • Desarrolladora Flutter
 </p>
 
 ---
 
-## About Me
+## Sobre Mí
 
-I’m passionate about creating modern, responsive, and user-friendly digital experiences.  
-I enjoy building websites and applications with clean interfaces, smooth interactions, and functional designs.
+Me apasiona crear experiencias digitales modernas, responsivas y fáciles de usar.  
+Disfruto desarrollar sitios web y aplicaciones con interfaces limpias, interacciones fluidas y diseños funcionales.
 
-Currently focused on:
-- Web Development
-- Flutter Applications
-- UI/UX Design
-- Responsive Interfaces
+Actualmente enfocada en:
+- Desarrollo Web
+- Aplicaciones Flutter
+- Diseño UI/UX
+- Interfaces Responsivas
 
+Además, soy amante de las Ford Raptor y del diseño con estilo moderno y potente. 🚘
 ---
 
-## Technologies
+## Tecnologías
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,php,mysql,git,github,vscode" />
@@ -27,17 +28,17 @@ Currently focused on:
 
 ---
 
-## Featured Projects
+## Proyectos Destacados
 
 ### WEBVIBE
-Modern informational application built with Flutter focused on clean UI and smooth user experience.
+Aplicación informativa moderna desarrollada con Flutter, enfocada en una interfaz limpia y una experiencia de usuario fluida.
 
-🔗 Repository:
+🔗 Repositorio:
 https://github.com/KarolBM03/webvibe
 
 ---
 
-## GitHub Stats
+## Estadísticas de GitHub
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarolBM03&show_icons=true" />
@@ -46,8 +47,8 @@ https://github.com/KarolBM03/webvibe
 
 ---
 
-## Connect With Me
+## Conecta Conmigo
 
 - GitHub: https://github.com/KarolBM03
-- Portfolio: YOUR_PORTFOLIO_LINK
-- Email: YOUR_EMAIL
+- Portafolio: https://portafoliokarol.netlify.app/
+- Correo: berasmartinezkarol03@gmail.com
