@@ -1,7 +1,7 @@
-<h1 align="center">Hola, soy Karol 👋</h1>
+<h1 align="center">Hello, soy Karol 👋</h1>
 
 <p align="center">
-Desarrolladora Frontend • Diseñadora Web • Desarrolladora Flutter
+Desarrolladora  • Diseñadora Web • Desarrolladora React
 </p>
 
 ---
@@ -13,7 +13,7 @@ Disfruto desarrollar sitios web y aplicaciones con interfaces limpias, interacci
 
 Actualmente enfocada en:
 - Desarrollo Web
-- Aplicaciones Flutter
+- Aplicaciones en React y Flutter
 - Diseño UI/UX
 - Interfaces Responsivas
   
